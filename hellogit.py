@@ -1,5 +1,4 @@
+print("Hello Git!")
 
-print("Estoy modificando el archivo")
-
-print("New Hello Git world!")
+print("New Hello Git!")
 
